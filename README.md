@@ -11,7 +11,7 @@ In your solution please emphasize on readability, maintainability and DevOps met
 
 Use git. We like seeing history of small improvements instead of big pushes with unclear goals.
 
-If you wish, you can use a configuration management tool (Ansible, Terraform, Chef, Puppet). The infrastructure provider is up to you (Google Cloud, Kubernetes, AWS and Vagrant are all good).
+If you wish, you can use a configuration management tool (Ansible, Terraform, Chef, Puppet). The infrastructure provider is up to you (Google Cloud, Kubernetes, AWS and Azure are all good).
 
 It is not required to implement all the features you can think of. A clean bare minimum working infrastructure is preferred than a full blown solution pieced together with scissors, rope and duct tape. Do not skip security considerations.
 
