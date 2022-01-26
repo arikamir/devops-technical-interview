@@ -7,7 +7,7 @@ With this test, we want to see your ability to create an entire infrastructure f
 Your task is to provision a highly available /[Wordpress](https://wordpress.com/)/[Gitlab](https://about.gitlab.com/)/[Discourse](https://www.discourse.org/)/CMS of your choice/. The entry point of the cluster should be a host and port 443.
 
 ## The solution
-In your solution please emphasize on readability, maintainability and DevOps methodologies. We expect a clear way to recreate your setup.
+In your solution please emphasize on readability, maintainability and DevOps methodologies. We expect a clear way to recreate your setup idealy via CICD pipeline.
 
 Use git. We like seeing history of small improvements instead of big pushes with unclear goals.
 
